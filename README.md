@@ -15,3 +15,8 @@
 "react-dom": "^17.0.1",
 "react-scripts": "4.0.0",
 ```
+
+
+## To Run
+```
+"npm install && npm start" 
