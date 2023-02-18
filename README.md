@@ -1,8 +1,8 @@
 ## Notes
 
-# Comfy Store
+# E-Commerce Application
 
-Project in Action - [Comfy Store](https://idyllic-monstera-e1d301.netlify.app/)
+Project in Action - [E-Commerce Application](https://idyllic-monstera-e1d301.netlify.app/)
 
 #### Run The App Locally
 
