@@ -14,8 +14,11 @@ const Hero = () => {
         </h1>
         <p>
           This is an e-commerce application listing a range of furniture
-          products for home & office. Once the products are added to the cart,
-          it can proceeded to the check-out.
+          products for home & office. The products falls under various
+          categories. The products can be filtered on the basis of their
+          Category, Company, Colour, Price & Shipping Charges. A Search bar is
+          provided to search the products using it's name. Once the products are
+          added to the cart, it can be proceeded to the check-out.
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now
