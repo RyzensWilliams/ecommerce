@@ -1,5 +1,20 @@
 ## Notes
 
+# E-Commerce Application
+
+Project in Action - [E-Commerce Application](https://idyllic-monstera-e1d301.netlify.app/)
+
+#### Run The App Locally
+
+```sh
+npm run install && npm start
+```
+
+- visit url http://localhost:3000/
+
+
+
+
 #### Older React Version
 
 ```
@@ -15,3 +30,4 @@
 "react-dom": "^17.0.1",
 "react-scripts": "4.0.0",
 ```
+ 
