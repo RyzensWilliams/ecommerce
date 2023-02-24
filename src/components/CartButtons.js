@@ -12,13 +12,12 @@ const CartButtons = () => {
   const { loginWithRedirect, myUser, logout } = useUserContext();
   return (
     <Wrapper className="cart-btn-wrapper">
-      {myUser && (
-        <li>
-          <h5>Hello, {myUser && myUser.name}</h5>
-        </li>
-      )}
-
       <Link to="/cart" className="cart-btn" onClick={closeSidebar}>
+        {myUser && (
+          <li>
+            <h5>Hello, {myUser && myUser.name}</h5>
+          </li>
+        )}
         Cart
         <span className="cart-container">
           <FaShoppingCart />
