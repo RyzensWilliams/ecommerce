@@ -14,10 +14,10 @@ const Hero = () => {
         </h1>
         <p>
           This is an e-commerce application listing a range of furniture
-          products for home & office. The products falls under various
-          categories. The products can be filtered on the basis of their
-          Category, Company, Colour, Price & Shipping Charges. The selected
-          products can be added to the cart and then proceeded to checkout.
+          products for home & office. The products can be filtered on the basis
+          of their Category, Company, Colour, Price & Shipping Charges. The
+          selected products can be added to the cart and then proceeded to
+          checkout.
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now
