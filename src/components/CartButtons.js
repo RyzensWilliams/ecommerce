@@ -13,11 +13,6 @@ const CartButtons = () => {
   return (
     <Wrapper className="cart-btn-wrapper">
       <Link to="/cart" className="cart-btn" onClick={closeSidebar}>
-        {myUser && (
-          <li>
-            <h6>Hello, {myUser && myUser.name}</h6>
-          </li>
-        )}
         Cart
         <span className="cart-container">
           <FaShoppingCart />

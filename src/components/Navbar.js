@@ -33,7 +33,9 @@ const Nav = () => {
           })}
           {myUser && (
             <li>
-              <Link to="/checkout">checkout</Link>
+              <Link to="/checkout">
+                <h6>Hello, {myUser && myUser.name}</h6>checkout
+              </Link>
             </li>
           )}
         </ul>
