@@ -37,7 +37,11 @@ const Nav = () => {
             </li>
           )}
 
-          {myUser && <li>Hello,{myUser && myUser.name}</li>}
+          {myUser && (
+            <li>
+              <font color="brown">Hello,{myUser && myUser.name}!</font>
+            </li>
+          )}
         </ul>
         <CartButtons />
       </div>
