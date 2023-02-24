@@ -35,6 +35,8 @@ const Nav = () => {
             <li>
               <Link to="/checkout">checkout</Link>
             </li>
+   <li><h6>Hello, {myUser && myUser.name}</h6></li>
+
           )}
         </ul>
         <CartButtons />
