@@ -16,9 +16,9 @@ const Hero = () => {
           This is an e-commerce application listing a range of furniture
           products for home & office. The products falls under various
           categories. The products can be filtered on the basis of their
-          Category, Company, Colour, Price & Shipping Charges. A Search bar is
-          provided to search the products using it's name. The selected products
-          can be added to the cart.
+          Category, Company, Colour, Price & Shipping Charges. The selected
+          products can be added to the cart and can be then proceeded to
+          checkout.
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now
