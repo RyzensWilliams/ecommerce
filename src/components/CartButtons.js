@@ -15,7 +15,7 @@ const CartButtons = () => {
       <Link to="/cart" className="cart-btn" onClick={closeSidebar}>
         {myUser && (
           <li>
-            <h5>Hello, {myUser && myUser.name}</h5>
+            <h6>Hello, {myUser && myUser.name}</h6>
           </li>
         )}
         Cart
@@ -48,7 +48,7 @@ const Wrapper = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
-  width: 225px;
+  width: 245px;
 
   .cart-btn {
     color: var(--clr-grey-1);
