@@ -39,7 +39,7 @@ const Nav = () => {
 
           {myUser && (
             <li>
-              <font color="blue">Hello,{myUser && myUser.name}!</font>
+              <font color="brown">Hello,{myUser && myUser.name}!</font>
             </li>
           )}
         </ul>
