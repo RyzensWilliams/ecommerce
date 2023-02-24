@@ -39,7 +39,7 @@ const Nav = () => {
 
           {myUser && (
             <li>
-              <h6>Hello, {myUser && myUser.name}</h6>
+              <h6>{myUser && myUser.name}</h6>
             </li>
           )}
         </ul>
