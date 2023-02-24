@@ -17,8 +17,7 @@ const Hero = () => {
           products for home & office. The products falls under various
           categories. The products can be filtered on the basis of their
           Category, Company, Colour, Price & Shipping Charges. The selected
-          products can be added to the cart and can be then proceeded to
-          checkout.
+          products can be added to the cart and then proceeded to checkout.
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now
