@@ -34,11 +34,16 @@ const Nav = () => {
           {myUser && (
             <li>
               <Link to="/checkout">checkout</Link>
-              <h5>Hello, {myUser && myUser.name}</h5>
             </li>
           )}
         </ul>
         <CartButtons />
+
+        {myUser && (
+          <li>
+            <h5>Hello, {myUser && myUser.name}</h5>
+          </li>
+        )}
       </div>
     </NavContainer>
   );
