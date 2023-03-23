@@ -2,7 +2,7 @@
 
 # [E-Commerce Application](https://idyllic-monstera-e1d301.netlify.app/)
 
-Project in Action - [E-Commerce Application](https://idyllic-monstera-e1d301.netlify.app/)
+Project in Action - Live Demo - [E-Commerce Application](https://idyllic-monstera-e1d301.netlify.app/)
 
 
 # Screenshot:
