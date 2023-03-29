@@ -12,6 +12,12 @@
 
 # Live Demo - [https://idyllic-monstera-e1d301.netlify.app/](https://idyllic-monstera-e1d301.netlify.app/)
 
+
+#### Tech Stack
+React, Typescript, Oauth 2.0, Stripe. 
+
+
+
 #### Run The App Locally
 
 ```sh
