@@ -13,11 +13,6 @@
 # Live Demo - [https://idyllic-monstera-e1d301.netlify.app/](https://idyllic-monstera-e1d301.netlify.app/)
 
 
-#### Tech Stack
-React, Typescript, Oauth 2.0, Stripe. 
-
-
-
 #### Run The App Locally
 
 ```sh
@@ -25,5 +20,12 @@ npm install && npm start
 ```
 
 - visit url http://localhost:3000/
+
+
+
+#### Tech Stack
+React, Typescript, React Router, Styled Components, REST,  Oauth 2.0, Stripe. 
+
+
 
 
