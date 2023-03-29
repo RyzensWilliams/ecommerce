@@ -23,7 +23,7 @@ npm install && npm start
 
 
 
-#### Tech Stack
+# Tech Stack
 React, Typescript, React Router, Styled Components, REST,  Oauth 2.0, Stripe. 
 
 
