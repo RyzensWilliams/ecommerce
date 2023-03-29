@@ -24,7 +24,7 @@ npm install && npm start
 
 
 # Tech Stack
-React, Typescript, React Router, REST, Styled Components,  Oauth 2.0 &  Stripe Payment. 
+React, Typescript, React Router, REST, Styled Components,  Oauth 2.0 &  Stripe Payments. 
 
 
 
