@@ -1,7 +1,7 @@
 ## Notes
 
 # [E-Commerce Application](https://idyllic-monstera-e1d301.netlify.app/)
-#React / JavaScript / Stripe / OAuth2.0
+# React / JavaScript / Stripe / OAuth2.0
 
 ## Live Demo - [https://idyllic-monstera-e1d301.netlify.app/](https://idyllic-monstera-e1d301.netlify.app/)
 
