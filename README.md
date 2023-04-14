@@ -4,7 +4,7 @@
 
 ## Live Demo - [https://idyllic-monstera-e1d301.netlify.app/](https://idyllic-monstera-e1d301.netlify.app/)
 
-# Screenshot:
+# Screenshots:
 
 ![Screenshot 2023-03-01 at 7 44 34 PM](https://user-images.githubusercontent.com/2153396/227244001-abd106d4-ef01-4136-8f1b-ffe6c5424d00.png)
 
@@ -27,7 +27,7 @@ npm install && npm start
 
 
 # Tech Stack
-React, Typescript, React Router, REST, Styled Components,  Oauth 2.0 &  Stripe Payments. 
+React, JavaScript, Router, Redux, Styled Components, Oauth 2.0 &  Stripe Payments. 
 
 
 
