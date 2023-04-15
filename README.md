@@ -16,13 +16,13 @@
 
 
 
-# Run The App Locally
+# Available Scripts
 
 ```sh
 npm install && npm start
 ```
 
-- visit url http://localhost:3000/
+Then visit the url http://localhost:3000/
 
 
 
