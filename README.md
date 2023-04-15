@@ -16,7 +16,7 @@
 
 
 
-#### Run The App Locally
+# Run The App Locally
 
 ```sh
 npm install && npm start
