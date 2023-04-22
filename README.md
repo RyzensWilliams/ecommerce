@@ -1,5 +1,5 @@
 
-# E-Commerce Application  - React / JS / Stripe / OAuth2.0
+# E-Commerce Application  - React JS / Stripe / OAuth2.0
  
 
 ## Live Demo - [https://idyllic-monstera-e1d301.netlify.app/](https://idyllic-monstera-e1d301.netlify.app/)
