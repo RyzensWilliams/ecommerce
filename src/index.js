@@ -8,7 +8,7 @@ import { CartProvider } from "./context/cart_context";
 import { UserProvider } from "./context/user_context";
 import { Auth0Provider } from "@auth0/auth0-react";
 
-
+ 
 ReactDOM.render(
   <Auth0Provider
     domain="dev-74yaitxhvcrqnokk.us.auth0.com"
