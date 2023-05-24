@@ -1,22 +1,23 @@
 import React, { useEffect, useContext, useReducer } from 'react'
 import reducer from '../reducers/filter_reducer'
 import {
+  
+  SET_GRIDVIEW,
+  SET_LISTVIEW,
+  UPDATE_SORT,
   SORT_PRODUCTS,
   UPDATE_FILTERS,
   FILTER_PRODUCTS,
   CLEAR_FILTERS,
-  LOAD_PRODUCTS,
-  SET_GRIDVIEW,
-  SET_LISTVIEW,
-  UPDATE_SORT
+  LOAD_PRODUCTS 
 } from '../actions'
 import { useProductsContext } from './products_context'
 
 const initialState = {
-  filtered_products: [],
   all_products: [],
   grid_view: true,
   sort: 'price-lowest',
+  filtered_products: [],
   filters: {
     text: '',
     company: 'all',
@@ -83,10 +84,10 @@ export const FilterProvider = ({ children }) => {
       value={{
         ...state,
         setGridView,
-        setListView,
-        updateSort,
         updateFilters,
         clearFilters,
+        setListView,
+        updateSort
       }}
     >
       {children}
