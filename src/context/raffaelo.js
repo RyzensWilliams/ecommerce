@@ -103,3 +103,25 @@ export const useFilterContext = () => {
 
 
 https://docs.google.com/document/d/1HP0WdjKkGFzWWVT_FY9JmAKQlE1wINx5hyC521xMGIU/edit#heading=h.jjar8djmjnsy 
+
+export default function Form() {
+    const [firstName, setFirstName] = React.useState("")
+    /**
+     * Challenge: Track the applicant's last name as well
+     */
+    
+    function handleChange(event) {
+        setFirstName(event.target.value) // set  a value for setFirstName 
+    }
+    
+    return (
+        <form>
+            <input
+                type="text"
+                placeholder="First Name"
+                onChange={handleChange}
+            />
+        </form>
+    )
+}
+
